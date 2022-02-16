@@ -1,6 +1,6 @@
 package homework;
 
-public class hwOne {
+public class homework1 {
     /**
      * Homework 1:
      * Store the values for below scenario in a appropriate variable, and printthe same in Console.
