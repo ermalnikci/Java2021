@@ -32,8 +32,7 @@ public class homework3 {
         int result1 = sentence1Length>=10 ? 100 : 150;
         System.out.println("\nLength of '" + sentence1 + "' is = " + sentence1Length);
         System.out.println("\nresult1 = " + result1);
-
-
+        
         String sentence2 = "Health was Earlier said to Be the ability of the body functioning Well.";
         String replaceThis = "A", replaceWith = "Z";
         String sentence2UpperCase = sentence2.toUpperCase();
